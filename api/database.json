@@ -1,0 +1,53 @@
+{
+    "employees": [
+    {
+      "employeeId": 1,
+      "name": "Brendan McCray",
+      "deptId": 1,
+      "computerId": 1
+    },
+    {
+      "employeeId": 2,
+      "name": "Zac Jones",
+      "deptId": 3,
+      "computerId": 3
+
+    },
+    {
+      "employeeId": 3,
+      "name": "Ousama Elayan",
+      "deptId": 2,
+      "computerId": 2
+    }
+  ],
+
+  "departments": [
+    {
+      "id": 1,
+      "name": "Business Administration"
+    },
+    {
+      "id": 2,
+      "name": "Sales"
+    },
+    {
+      "id": 3,
+      "name": "Finance"
+    }
+  ],
+
+  "computers": [
+    {
+      "id": 1,
+      "type": "Macbook Air"
+    },
+    {
+      "id": 2,
+      "type": "Macbook Pro"
+    },
+    {
+      "id": 3,
+      "type": "Windows 10 Machine"
+    }
+  ]
+}
